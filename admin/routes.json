@@ -1,0 +1,6 @@
+{
+  "admin.app.product-list": {
+    "component": "ProductList",
+    "path": "/admin/app/simple-product-list"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "section": "products",
+  "titleId": "admin/react-ts-training.title",
+  "subSection": "example",
+  "searchKeyWordsHelpers": "training, example, mock",
+  "subSectionItems": [
+    {
+      "labelId": "admin/react-ts-training.product-list.label",
+      "path": "/admin/simple-product-list",
+      "searchKeyWordsHelpers": "training, example, mock"
+    }
+  ]
+}
