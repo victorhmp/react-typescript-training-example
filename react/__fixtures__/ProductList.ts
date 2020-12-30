@@ -39,4 +39,20 @@ export const initialProductsToAdd = [
       'https://storecomponents.vtexassets.com/arquivos/ids/155478-300-300?width=300&height=300&aspect=true',
     brand: 'Apple',
   },
+  {
+    id: '456mno',
+    name: 'Blouse with Knot',
+    price: 128.0,
+    imageUrl:
+      'https://storecomponents.vtexassets.com/arquivos/ids/155497-300-300?width=300&height=300&aspect=true',
+    brand: 'Make B.',
+  },
+  {
+    id: '456mno',
+    name: 'Top Everyday Necessaire',
+    price: 1600.0,
+    imageUrl:
+      'https://storecomponents.vtexassets.com/arquivos/ids/155482-300-300?width=300&height=300&aspect=true',
+    brand: 'LG',
+  },
 ]
