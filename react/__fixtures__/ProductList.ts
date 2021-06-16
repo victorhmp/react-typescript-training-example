@@ -48,7 +48,7 @@ export const initialProductsToAdd = [
     brand: 'Make B.',
   },
   {
-    id: '456mno',
+    id: '101pqr',
     name: 'Top Everyday Necessaire',
     price: 1600.0,
     imageUrl:
